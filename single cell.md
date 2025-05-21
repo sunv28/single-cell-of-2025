@@ -3658,6 +3658,5 @@ Reference: 📖[潜在空间可视化：PCA、t-SNE、UMAP\_哔哩哔哩\_bilibi
 ### Main steps of UMAP
 
 * 1️⃣Calculate the nearest neighbors (k-nearest neighbors, kNN) of each point
-
-For each data point $x_i$, find its nearest $k$ neighbors and construct a local adjacency.
-The distance metric is usually Euclidean distance, but other metrics can be used.
+	For each data point $x_i$, find its nearest $k$ neighbors and construct a local adjacency.
+	The distance metric is usually Euclidean distance, but other metrics can be used.
